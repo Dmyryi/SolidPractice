@@ -1,9 +1,13 @@
-﻿public class Program
+﻿using SolidCafe.Product;
+
+public class Program
 {
     public static void Main()
     {
+       
         Console.WriteLine("1.Посмотреть продукты");
-        Console.WriteLine("2.Посмотреть корзину");
+            Console.WriteLine("1.Посмотреть продукты");
+            Console.WriteLine("2.Посмотреть корзину");
         Console.WriteLine("3.Способ оплаты");
         Console.WriteLine("4.Получить чек");
 
@@ -13,6 +17,9 @@
 
         switch (chooseOption) {
             case "1":
+                ProductCatalog catalog = new ProductCatalog();
+                catalog.GetAllProducts();
+              
                 break;
             case "2":
                 break;
@@ -24,5 +31,6 @@
             default:
                 break;
         }
+        
     }
 }

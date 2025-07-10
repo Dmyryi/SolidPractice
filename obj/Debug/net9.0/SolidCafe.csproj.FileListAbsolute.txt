@@ -1,0 +1,14 @@
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\bin\Debug\net9.0\SolidCafe.exe
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\bin\Debug\net9.0\SolidCafe.deps.json
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\bin\Debug\net9.0\SolidCafe.runtimeconfig.json
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\bin\Debug\net9.0\SolidCafe.dll
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\bin\Debug\net9.0\SolidCafe.pdb
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.AssemblyInfoInputs.cache
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.AssemblyInfo.cs
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.csproj.CoreCompileInputs.cache
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.dll
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\refint\SolidCafe.dll
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.pdb
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.genruntimeconfig.cache
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\ref\SolidCafe.dll

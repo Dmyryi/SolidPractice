@@ -12,3 +12,4 @@ C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\refint\SolidCaf
 C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.pdb
 C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.genruntimeconfig.cache
 C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\ref\SolidCafe.dll
+C:\Users\muzal\source\repos\SolidCafe\SolidCafe\obj\Debug\net9.0\SolidCafe.sourcelink.json

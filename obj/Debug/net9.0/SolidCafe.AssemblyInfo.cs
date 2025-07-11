@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f875b01dc988de9eead83cb6ffe04c61e65619e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45f3446578b9acf8aa2dc0c978adaa117ffd5473")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

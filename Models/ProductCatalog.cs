@@ -4,11 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SolidCafe.Product
+namespace SolidCafe.Models
 {
     public class ProductCatalog
     {
-   
+        private static readonly ProductCatalog _instance = new ProductCatalog();
+
+        public static ProductCatalog Instance => _instance;
+
+      
         private List<Product> products = new List<Product> {
             new("Салат", 10, Category.Food, false),
             new("Кола", 5, Category.Drink,  false),
@@ -18,8 +22,14 @@ namespace SolidCafe.Product
 
 
         };
-        public List<Product> bucket = new List<Product>();
 
+        public ProductCatalog() { }
+        public List<Product> GetProducts()
+        {
+            return products;
+        }
+
+        
 
         public void  GetAllProducts()
         {

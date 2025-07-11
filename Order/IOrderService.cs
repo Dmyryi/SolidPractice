@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SolidCafe.Product
+namespace SolidCafe.Order
 {
-    public enum Category
+    public interface IOrderService
     {
-        Drink,
-        Food,
-        Other
+        void GetBucketAll();
+        void AddToBucket();
     }
 }
